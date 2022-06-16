@@ -1,24 +1,29 @@
-import logo from './logo.svg';
-import './App.css';
+
+import { Navbar } from './components/Navbar';
+import { Homepage } from './pages/Homepage';
+import { Stack } from '@chakra-ui/react';
+import {Routes ,Route} from 'react-router-dom'
+import { ProductList } from './pages/ProductList';
+import { SignIn } from "./pages/SignIn.jsx";    
+import { Cart } from './pages/Cart';
+import { Checkout } from './pages/Checkout';
+import { Successful } from './pages/Successful';
+import { Footer } from './pages/Footer';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Stack w="95%" m="auto">
+      <Navbar/>
+      <Routes>
+        <Route path="/" element={<Homepage/>}></Route>
+        <Route path="/product_list" element={<ProductList/>}></Route>
+        <Route path="/signin" element={<SignIn/>}></Route>
+        <Route path="/cart" element={<Cart/>}></Route>
+        <Route path="/checkout" element={<Checkout/>}></Route>
+        <Route path="/successful" element={<Successful/>}></Route>
+      </Routes>
+      <Footer/>
+    </Stack>
   );
 }
 
