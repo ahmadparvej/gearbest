@@ -6,8 +6,6 @@ import {
   HStack,
   Box,
   Button,
-  InputGroup,
-  InputLeftAddon,
   Input,
   Tag
 } from "@chakra-ui/react";
@@ -17,10 +15,8 @@ import {
   PopoverContent,
   PopoverHeader,
   PopoverBody,
-  PopoverFooter,
   PopoverArrow,
   PopoverCloseButton,
-  PopoverAnchor,
   Portal
 } from '@chakra-ui/react'
 

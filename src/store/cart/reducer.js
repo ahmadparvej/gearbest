@@ -21,10 +21,11 @@ export const cartReducer = (state=initState,{type,payload})=>{
         }
         case DELETE_CART_SUCCESS:{
             let newCart = state.cart.filter((item)=>{
-                if(item.id==payload){
+                if(item.id===payload){
                     state.sum=state.sum-Number(item.price);
-                }
-                if(item.id!==payload){
+                }else if(item.id!==payload){
+                    return item
+                }else{
                     return item
                 }
             })

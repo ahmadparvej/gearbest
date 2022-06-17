@@ -1,6 +1,6 @@
-import React,{useState} from 'react'
+import React from 'react'
 import { useSelector } from 'react-redux';
-import { Stack,VStack, HStack, Text, Button, Heading } from '@chakra-ui/react';
+import { Stack, HStack, Text, Button, Heading } from '@chakra-ui/react';
 import { Image } from '@chakra-ui/react';
 import { useNavigate } from 'react-router-dom';
 import { deleteCart } from './../store/cart/action';
