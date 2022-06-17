@@ -3,12 +3,18 @@ import { useSelector } from 'react-redux';
 import { Stack,VStack, HStack, Text, Button, Heading } from '@chakra-ui/react';
 import { Image } from '@chakra-ui/react';
 import { useNavigate } from 'react-router-dom';
+import { deleteCart } from './../store/cart/action';
+import { useDispatch } from 'react-redux';
 
 export const Cart = () => {
-  const {cart, sum} = useSelector(state=>state.cartReducer)
-  const navigate = useNavigate()
+  const {cart, sum} = useSelector(state=>state.cartReducer);
+  const navigate = useNavigate();
+  const dispatch = useDispatch();
   const handlePay = () =>{
     navigate("/checkout")
+  }
+  const handleDelete =(id)=>{
+    dispatch(deleteCart(id))
   }
   return (
     <HStack gap="2rem" justify="space-around">
@@ -17,7 +23,7 @@ export const Cart = () => {
           <Image src={item.image} w="100px"/>
           <Text>{item.name}</Text>
           <Text>$ {item.price}</Text>
-          <Button>Delete</Button>
+          <Button onClick={()=>handleDelete(item.id)}>Delete</Button>
         </HStack>
       })}</Stack>
       <Stack gap="2rem">

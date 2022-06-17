@@ -9,6 +9,7 @@ import {
   InputGroup,
   InputLeftAddon,
   Input,
+  Tag
 } from "@chakra-ui/react";
 import {
   Popover,
@@ -35,6 +36,7 @@ import { useNavigate } from "react-router-dom";
 export const Navbar = () => {
 
   const {isAuth} = useSelector(state=>state.authReducer)
+  const {cart} = useSelector((state)=>state.cartReducer)
   const navigate  = useNavigate()
   const handleCartOpen =()=>{
     if(isAuth){
@@ -58,7 +60,7 @@ export const Navbar = () => {
         </HStack>
         <HStack w="30%" justify="space-around">
           <Box cursor="pointer" ><Icon as={BsHeart}/>Favorite</Box>
-          <Box cursor="pointer" onClick={handleCartOpen}><Icon as={BsCart}/>Cart</Box>
+          <Box cursor="pointer" onClick={handleCartOpen}><Icon as={BsCart}/>Cart<Tag bg="#ffda00" borderRadius="50px">{cart.length}</Tag></Box>
           <Popover >
           <PopoverTrigger>
             {isAuth?<Box cursor="pointer"><Icon as={FaRegUser}/>Profile</Box>:<Box cursor="pointer"><Icon as={FaRegUser}/>SignUp</Box>}
