@@ -12,4 +12,4 @@ Deployed Link :https://gearbest-personal-clone.herokuapp.com/
 
 Below are some of the attached pictures of the website.
 
-Full Screenshot →
+Full Screenshot →![screenshot]("https://github.com/ahmadparvej/gearbest/blob/main/screenshot/Gearbest.png")
