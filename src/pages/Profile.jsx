@@ -15,7 +15,7 @@ import {
 } from '@chakra-ui/react';
 
 export const Profile=()=> {
-    const {firstName ,lastName} = useSelector(state=>state.authReducer.name)
+    const { email } = useSelector(state=>state.authReducer)
     const dispatch = useDispatch()
     const handleLogout = ()=>{
         dispatch(logout())
@@ -52,8 +52,8 @@ export const Profile=()=> {
 
         <Box p={6}>
           <Stack spacing={0} align={'center'} mb={5}>
-            <Heading fontSize={'2xl'} fontWeight={500} fontFamily={'body'}>
-              {firstName} {lastName}
+            <Heading fontSize={'md'} fontWeight={500} fontFamily={'body'}>
+              {email}
             </Heading>
           </Stack>
 

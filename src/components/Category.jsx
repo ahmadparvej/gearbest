@@ -1,6 +1,6 @@
 import React from "react";
 import { Stack, Button, Box, Heading } from "@chakra-ui/react";
-import { Flex} from "@chakra-ui/react";
+import { Flex } from "@chakra-ui/react";
 import Carousel from "./Carousel";
 
 import {
@@ -25,7 +25,7 @@ export const Category = () => {
           size="sm"
           bg="black"
           color="white"
-          p={2}
+          p="9px"
           align="center"
         >
           Category
@@ -78,10 +78,10 @@ export const Category = () => {
           );
         })}
       </Stack>
-      <Stack w="80%">
+      <Box w="80%">
         <Stack
           display="flex"
-          h="40px"
+          p="9px"
           direction="row"
           bg="#ffda00"
           align="center"
@@ -98,7 +98,7 @@ export const Category = () => {
           </Heading>
         </Stack>
         <Carousel />
-      </Stack>
+      </Box>
     </Box>
   );
 };

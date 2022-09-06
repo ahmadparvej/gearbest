@@ -1,9 +1,9 @@
-import React,{useEffect} from 'react';
-import { Box, IconButton, useBreakpointValue } from '@chakra-ui/react';
+import React, { useEffect } from "react";
+import { Box, IconButton, useBreakpointValue } from "@chakra-ui/react";
 // Here we have used react-icons package for the icons
-import { BiLeftArrowAlt, BiRightArrowAlt } from 'react-icons/bi';
+import { BiLeftArrowAlt, BiRightArrowAlt } from "react-icons/bi";
 // And react-slick as our Carousel Lib
-import Slider from 'react-slick';
+import Slider from "react-slick";
 
 // Settings for the slider
 const settings = {
@@ -24,21 +24,22 @@ export default function Carousel() {
 
   // These are the breakpoints which changes the position of the
   // buttons as the screen size changes
-  const top = useBreakpointValue({ base: '90%', md: '50%' });
-  const side = useBreakpointValue({ base: '30%', md: '10px' });
+  const top = useBreakpointValue({ base: "90%", md: "50%" });
+  const side = useBreakpointValue({ base: "30%", md: "10px" });
   const cards = [
-    'https://uidesign.gbtcdn.com/GB/image/9534/Smart+Watches+PC+1190X420+EN.jpg',
-    'https://uidesign.gbtcdn.com/GB/image/8823/Father1190X420en.jpg?imbypass=true',
-    'https://uidesign.gbtcdn.com/GB/image/8823/1190X420-en1.jpg',
-    'https://uidesign.gbtcdn.com/GB/image/8823/1190X420.jpg'
+    "https://uidesign.gbtcdn.com/GB/image/9534/Smart+Watches+PC+1190X420+EN.jpg",
+    "https://uidesign.gbtcdn.com/GB/image/8823/Father1190X420en.jpg?imbypass=true",
+    "https://uidesign.gbtcdn.com/GB/image/8823/1190X420-en1.jpg",
+    "https://uidesign.gbtcdn.com/GB/image/8823/1190X420.jpg",
   ];
 
   return (
     <Box
-      position={'relative'}
-      height={'500px'}
-      width={'full'}
-      overflow={'hidden'}>
+      position={"relative"}
+      height={"500px"}
+      width={"full"}
+      overflow={"hidden"}
+    >
       {/* CSS files for react-slick */}
       <link
         rel="stylesheet"
@@ -59,9 +60,10 @@ export default function Carousel() {
         position="absolute"
         left={side}
         top={top}
-        transform={'translate(0%, -50%)'}
+        transform={"translate(0%, -50%)"}
         zIndex={2}
-        onClick={() => slider?.slickPrev()}>
+        onClick={() => slider?.slickPrev()}
+      >
         <BiLeftArrowAlt />
       </IconButton>
       {/* Right Icon */}
@@ -72,9 +74,10 @@ export default function Carousel() {
         position="absolute"
         right={side}
         top={top}
-        transform={'translate(0%, -50%)'}
+        transform={"translate(0%, -50%)"}
         zIndex={2}
-        onClick={() => slider?.slickNext()}>
+        onClick={() => slider?.slickNext()}
+      >
         <BiRightArrowAlt />
       </IconButton>
       {/* Slider */}
@@ -82,7 +85,7 @@ export default function Carousel() {
         {cards.map((url, index) => (
           <Box
             key={index}
-            height={'md'}
+            height={"md"}
             position="relative"
             backgroundPosition="center"
             backgroundRepeat="no-repeat"

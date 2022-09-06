@@ -1,28 +1,21 @@
 
 import { SIGN_IN_SUCCESS, LOGIN_SUCCESS, LOGOUT_SUCCESS } from './actionTypes';
 
-const authentication = JSON.parse(localStorage.getItem("authentication")) || {email:"",password:""}
-
 const initState = {
-    authentication:authentication,
-    isAuth:false,
-    name:{firstName:"",lastName:""}
+    token:"",
+    email:"",
+
 }
 export const authReducer =(state=initState,{type,payload})=>{
     switch (type) {
         case SIGN_IN_SUCCESS:{
-            localStorage.setItem("authentication",JSON.stringify(payload))
-            return {...state,isAuth:false,email:payload.email,password:payload.password,name:{firstName:payload.firstName,lastName:payload.lastName}}
+            return state
         }
         case LOGOUT_SUCCESS:{
-            return {...state,isAuth:false}
+            return state={...state,token:""}
         }
         case LOGIN_SUCCESS:{
-            const authentication = JSON.parse(localStorage.getItem("authentication"))
-            if(payload.email === authentication.email){
-                return {...state,isAuth:true}
-            }
-            return {...state}
+            return state={...state,email:payload.email,token:payload.token}
         }
         default:
             return state

@@ -1,7 +1,7 @@
-import { Box, Heading, Text, Button } from '@chakra-ui/react';
+import { Box, Heading, Text, Button } from "@chakra-ui/react";
 import { useNavigate } from "react-router-dom";
-export const Successful=()=> {
-    const navigate = useNavigate()
+export const Successful = () => {
+  const navigate = useNavigate();
   return (
     <Box textAlign="center" py={10} px={6}>
       <Heading
@@ -9,24 +9,26 @@ export const Successful=()=> {
         as="h2"
         size="2xl"
         bgGradient="linear(to-r, teal.400, teal.600)"
-        backgroundClip="text">
+        backgroundClip="text"
+      >
         Order
       </Heading>
       <Text fontSize="18px" mt={3} mb={2}>
-      Success
+        Success
       </Text>
-      <Text color={'gray.500'} mb={6}>
-      We received your purchase request;
-we'll be in touch shortly!
+      <Text color={"gray.500"} mb={6}>
+        We received your purchase request; we'll be in touch shortly!
       </Text>
 
-      <Button onClick={()=>navigate("/")}
+      <Button
+        onClick={() => navigate("/")}
         colorScheme="teal"
         bgGradient="linear(to-r, teal.400, teal.500, teal.600)"
         color="white"
-        variant="solid">
+        variant="solid"
+      >
         Go to Home
       </Button>
     </Box>
   );
-}
+};

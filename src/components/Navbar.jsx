@@ -31,12 +31,10 @@ import { useSelector } from 'react-redux';
 import { useNavigate } from "react-router-dom";
 export const Navbar = () => {
 
-  const {isAuth} = useSelector(state=>state.authReducer)
-  const {cart} = useSelector((state)=>state.cartReducer)
+  const { token } = useSelector(state=>state.authReducer)
+  const { cart } = useSelector((state)=>state.cartReducer)
   const navigate  = useNavigate()
-  const handleCartOpen =()=>{
-      navigate("/cart")
-  }
+  
   return (
     <Stack>
       <HStack direction="column" justify="space-around" py={4}>
@@ -47,7 +45,7 @@ export const Navbar = () => {
           />
         </Stack>
         <HStack w="40%" h={8} gap={0} border="2px solid #ffda00" borderRadius="50px">
-            <Input type="text" placeholder="type here..." border="none"/>
+            <Input type="text" p="10px 25px" placeholder="type here..." border="none" variant='unstyled'/>
             <Button h={8} border="none" borderRadius="0 50px 50px 0" variant='with-shadow' outline="none"><Icon as={RiSearchLine}/></Button>
         </HStack>
         <HStack w="30%" justify="space-around">
@@ -55,10 +53,10 @@ export const Navbar = () => {
           <Link to="/cart"><Box><Icon as={BsCart}/>Cart<Tag bg="#ffda00" borderRadius="50px">{cart.length}</Tag></Box></Link>
           <Popover >
           <PopoverTrigger>
-            {isAuth?<Box cursor="pointer"><Icon as={FaRegUser}/>Profile</Box>:<Box cursor="pointer"><Icon as={FaRegUser}/>SignUp</Box>}
+            {token?<Box cursor="pointer"><Icon as={FaRegUser}/>Profile</Box>:<Box cursor="pointer"><Icon as={FaRegUser}/>SignUp</Box>}
           </PopoverTrigger>
           <Portal>
-            {!isAuth?<PopoverContent>
+            {!token?<PopoverContent>
               <PopoverArrow />
               <PopoverHeader>Welcome to Gearbest</PopoverHeader>
               <PopoverCloseButton />

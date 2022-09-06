@@ -1,10 +1,11 @@
 import React from 'react'
 import { useSelector } from 'react-redux';
-import {Navigate} from "react-router-dom"
+import {Navigate} from "react-router-dom";
+
 export const RequireAuth = ({children}) => {
-  const {isAuth} = useSelector((state)=>state.authReducer)
-  if(!isAuth){
-      return <Navigate to="/signin" replace={true}/>
+  const { token } = useSelector((state)=>state.authReducer)
+  if(token===""){
+    return <Navigate to="/login" replace={true}/>
   }
   return children
 }

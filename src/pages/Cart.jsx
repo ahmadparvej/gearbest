@@ -18,8 +18,8 @@ export const Cart = () => {
   }
   return (
     <HStack gap="2rem" justify="space-around">
-      <Stack>{cart.map((item)=>{
-        return <HStack boxShadow="rgba(0, 0, 0, 0.16) 0px 1px 4px" p={5} justify="space-around">
+      <Stack>{cart.map((item,index)=>{
+        return <HStack key={index} boxShadow="rgba(0, 0, 0, 0.16) 0px 1px 4px" p={5} justify="space-around">
           <Image src={item.image} w="100px"/>
           <Text>{item.name}</Text>
           <Text>$ {item.price}</Text>
