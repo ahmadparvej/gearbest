@@ -11,6 +11,7 @@ import {
 import {BsCart} from "react-icons/bs"
 import { useDispatch } from 'react-redux';
 import { addToCart } from './../store/cart/action';
+
   export const Card=({product})=> {
     const dispatch = useDispatch()
     const handleAddToCart = (item)=>{

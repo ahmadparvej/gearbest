@@ -9,6 +9,7 @@ import { Cart } from './pages/Cart';
 import { Checkout } from './pages/Checkout';
 import { Successful } from './pages/Successful';
 import { Footer } from './pages/Footer';
+import { RequireAuth } from './ProtectedRoutes/RequireAuth';
 
 function App() {
   return (
@@ -16,9 +17,9 @@ function App() {
       <Navbar/>
       <Routes>
         <Route path="/" element={<Homepage/>}></Route>
-        <Route path="/product_list" element={<ProductList/>}></Route>
+        <Route path="/product_list/:category/:type" element={<ProductList/>}></Route>
         <Route path="/signin" element={<SignIn/>}></Route>
-        <Route path="/cart" element={<Cart/>}></Route>
+        <Route path="/cart" element={<RequireAuth><Cart/></RequireAuth>}></Route>
         <Route path="/checkout" element={<Checkout/>}></Route>
         <Route path="/successful" element={<Successful/>}></Route>
       </Routes>

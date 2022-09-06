@@ -1,0 +1,1365 @@
+{
+  "mens_footwear": [
+    {
+      "name": "sports-shoes",
+      "data": [
+        {
+          "name": "ASIAN White Running Shoes",
+          "image": "https://n3.sdlcdn.com/imgs/i/z/e/230X258_sharpened/ASIAN-White-Running-Shoes-SDL803356221-1-9c5da.webp",
+          "price": "519",
+          "strikedOfprice": "669",
+          "rating": "4",
+          "id": 1,
+          "size": "6"
+        },
+        {
+          "name": "Action Black Running Shoes",
+          "image": "https://n4.sdlcdn.com/imgs/j/u/0/Action-Black-Running-Shoes-SDL563825251-1-c3725.jpg",
+          "price": "625",
+          "strikedOfprice": "669",
+          "rating": "5",
+          "id": 2,
+          "size": "6"
+        },
+        {
+          "name": "ASIAN Blue Running Shoes",
+          "image": "https://n4.sdlcdn.com/imgs/i/e/r/230X258_sharpened/ASIAN-Blue-Running-Shoes-SDL243004409-1-d0751.jpeg",
+          "price": "599",
+          "strikedOfprice": "999",
+          "rating": "4",
+          "id": 3,
+          "size": "8"
+        },
+        {
+          "name": "Casual Black Shoes",
+          "image": "https://n3.sdlcdn.com/imgs/j/o/n/Campus-Black-Casual-Shoes-SDL266461164-4-428e2.jpeg",
+          "price": "799",
+          "strikedOfprice": "999",
+          "rating": "4.5",
+          "id": 4,
+          "size": "7"
+        },
+        {
+          "name": "ASIAN POPCORN-02 Gray Running Shoes",
+          "image": "https://n3.sdlcdn.com/imgs/j/o/n/Campus-Black-Casual-Shoes-SDL266461164-4-428e2.jpeg",
+          "price": "799",
+          "strikedOfprice": "999",
+          "rating": "4.5",
+          "id": 5,
+          "size": "6"
+        },
+        {
+          "name": "ASIAN POPCORN-02 Gray Running Shoes",
+          "image": "https://n3.sdlcdn.com/imgs/j/o/n/Campus-Black-Casual-Shoes-SDL266461164-4-428e2.jpeg",
+          "price": "799",
+          "strikedOfprice": "999",
+          "rating": "4.5",
+          "id": 6,
+          "size": "8"
+        },
+        {
+          "name": "ASIAN HATTRICK-09",
+          "image": "https://n1.sdlcdn.com/imgs/j/v/s/ASIAN-HATTRICK-09-White-Running-SDL129176766-1-e2d54.jpeg",
+          "price": "725",
+          "strikedOfprice": "999",
+          "rating": "4.5",
+          "id": 7,
+          "size": "6"
+        },
+        {
+          "name": "ASIAN MISILE-01 Black Running",
+          "image": "https://n4.sdlcdn.com/imgs/j/v/n/ASIAN-MISILE-01-Black-Running-SDL521144278-1-27a1f.jpg",
+          "price": "500",
+          "strikedOfprice": "800",
+          "rating": "4.5",
+          "id": 8,
+          "size": "8"
+        },
+        {
+          "name": "Columbus Martin Red Running",
+          "image": "https://n1.sdlcdn.com/imgs/j/r/c/Columbus-Martin-Red-Running-Shoes-SDL144912381-1-ca70b.jpg",
+          "price": "875",
+          "strikedOfprice": "1200",
+          "rating": "4.5",
+          "id": 9,
+          "size": "5"
+        },
+        {
+          "name": "ASIAN FUTURE-01 Gray Running",
+          "image": "https://n4.sdlcdn.com/imgs/i/z/e/ASIAN-Gray-Running-Shoes-SDL797926121-1-18463.jpg",
+          "price": "800",
+          "strikedOfprice": "1350",
+          "rating": "4.5",
+          "id": 10,
+          "size": "8"
+        },
+        {
+          "name": "Campus First Black Running",
+          "image": "https://n3.sdlcdn.com/imgs/j/r/d/Campus-First-Black-Running-Shoes-SDL565178971-1-eba73.jpg",
+          "price": "1599",
+          "strikedOfprice": "2500",
+          "rating": "4.5",
+          "id": 11,
+          "size": "6"
+        },
+        {
+          "name": "ASIAN Navy Running Shoes",
+          "image": "https://n2.sdlcdn.com/imgs/k/d/i/ASIAN-Navy-Running-Shoes-SDL000687394-1-50342.jpg",
+          "price": "725",
+          "strikedOfprice": "1249",
+          "rating": "4.5",
+          "id": 12,
+          "size": "7"
+        }
+      ]
+    },
+    {
+      "name": "casual-shoes",
+      "data": [
+        {
+          "name": "Aadi Outdoor Black Casual Shoes",
+          "image": "https://n3.sdlcdn.com/imgs/j/a/o/Aadi-Outdoor-Black-Casual-Shoes-SDL716017712-1-5ca34.jpeg",
+          "price": "499",
+          "strikedOfprice": "999",
+          "rating": "4",
+          "id": 1,
+          "size": "6"
+        },
+        {
+          "name": "ASIAN Lifestyle Navy Casual Shoes",
+          "image": "https://n1.sdlcdn.com/imgs/j/s/u/230X258_sharpened/ASIAN-Lifestyle-Navy-Casual-Shoes-SDL149794011-1-2474c.jpeg",
+          "price": "549",
+          "strikedOfprice": "669",
+          "rating": "4",
+          "id": 2,
+          "size": "6"
+        },
+        {
+          "name": "viv Sneakers Blue Casual Shoes",
+          "image": "https://n1.sdlcdn.com/imgs/k/d/v/viv-Sneakers-Blue-Casual-Shoes-SDL817198171-1-b04e1.JPG",
+          "price": "749",
+          "strikedOfprice": "2999",
+          "rating": "4",
+          "id": 3,
+          "size": "6"
+        },
+        {
+          "name": "Aadi Sneakers Black Casual Shoes",
+          "image": "https://n1.sdlcdn.com/imgs/k/d/b/230X258_sharpened/Aadi-Sneakers-Black-Casual-Shoes-SDL908198954-1-a423e.jpeg",
+          "price": "399",
+          "strikedOfprice": "399",
+          "rating": "4",
+          "id": 4,
+          "size": "6"
+        },
+        {
+          "name": "ShoeRise Sneakers Yellow Casual Shoes",
+          "image": "https://n2.sdlcdn.com/imgs/j/q/2/ShoeRise-Sneakers-Yellow-Casual-Shoes-SDL733256459-1-6a0fe.jpeg",
+          "price": "539",
+          "strikedOfprice": "999",
+          "rating": "4",
+          "id": 5,
+          "size": "6"
+        },
+        {
+          "name": "Sir Corbett Sneakers Black Casual Shoes",
+          "image": "https://n4.sdlcdn.com/imgs/j/t/c/Sir-Corbett-Sneakers-Black-Casual-SDL769052113-1-1baad.jpg",
+          "price": "749",
+          "strikedOfprice": "2669",
+          "rating": "4",
+          "id": 6,
+          "size": "6"
+        },
+        {
+          "name": "Aadi Outdoor Brown Casual Shoes",
+          "image": "https://n1.sdlcdn.com/imgs/j/c/y/Aadi-Outdoor-Brown-Casual-Shoes-SDL226866439-1-7a0a9.jpg",
+          "price": "825",
+          "strikedOfprice": "999",
+          "rating": "4",
+          "id": 7,
+          "size": "6"
+        },
+        {
+          "name": "layasa White Casual Shoes",
+          "image": "https://n4.sdlcdn.com/imgs/k/e/k/layasa-White-Casual-Shoes-SDL075034521-1-318b0.jpeg",
+          "price": "499",
+          "strikedOfprice": "999",
+          "rating": "4",
+          "id": 8,
+          "size": "6"
+        },
+        {
+          "name": "Big Fox Lifestyle Black Casual Shoes",
+          "image": "https://n2.sdlcdn.com/imgs/k/b/a/Big-Fox-Lifestyle-Black-Casual-SDL655058043-1-9d0b6.jpg",
+          "price": "799",
+          "strikedOfprice": "1999",
+          "rating": "4",
+          "id": 9,
+          "size": "6"
+        },
+        {
+          "name": "ShoeRise Yellow Casual Shoes",
+          "image": "https://n3.sdlcdn.com/imgs/j/l/n/ShoeRise-Yellow-Casual-Shoes-SDL428623996-1-c9260.jpeg",
+          "price": "539",
+          "strikedOfprice": "999",
+          "rating": "4",
+          "id": 10,
+          "size": "6"
+        },
+        {
+          "name": "ASIAN Lifestyle White Casual Shoes",
+          "image": "https://n3.sdlcdn.com/imgs/j/v/8/ASIAN-Lifestyle-White-Casual-Shoes-SDL412790494-1-efb5f.jpeg",
+          "price": "649",
+          "strikedOfprice": "789",
+          "rating": "4",
+          "id": 11,
+          "size": "6"
+        },
+        {
+          "name": "Aadi Lifestyle Black Casual Shoes",
+          "image": "https://n3.sdlcdn.com/imgs/k/c/y/Aadi-Lifestyle-Black-Casual-Shoes-SDL974926215-1-33f6d.jpg",
+          "price": "499",
+          "strikedOfprice": "1999",
+          "rating": "4",
+          "id": 12,
+          "size": "6"
+        }
+      ]
+    }
+  ],
+  "mens_clothing": [
+    {
+      "name": "tshirt",
+      "data": [
+        {
+          "name": "David Crew - 100% Cotton Regular Fit Green Men's T-Shirt ( Pack of 1 )",
+          "image": "https://n3.sdlcdn.com/imgs/k/e/t/David-Crew-100-Cotton-Green-SDL559120798-1-895b4.jpg",
+          "price": "349",
+          "strikedOfprice": "669",
+          "rating": "4",
+          "id": 1,
+          "size": "M"
+        },
+        {
+          "name": "Veirdo - 100% Cotton Regular Fit Blue Men's T-Shirt ( Pack of 1 )",
+          "image": "https://n1.sdlcdn.com/imgs/k/e/t/Veirdo-100-Cotton-Regular-Fit-SDL468526198-2-caf53.jpg",
+          "price": "599",
+          "strikedOfprice": "999",
+          "rating": "4",
+          "id": 2
+        },
+        {
+          "name": "David Crew - 100% Cotton Regular Fit Multi Men's T-Shirt ( Pack of 1 )",
+          "image": "https://n1.sdlcdn.com/imgs/k/e/u/David-Crew-100-Percent-Cotton-SDL895671834-3-86615.jpg",
+          "price": "799",
+          "strikedOfprice": "999",
+          "rating": "4.5",
+          "id": 3
+        },
+        {
+          "name": "The Million Club - Polyester Regular Fit Green Men's Polo T Shirt ( Pack of 1 )",
+          "image": "https://n3.sdlcdn.com/imgs/k/b/5/230X258_sharpened/The-Million-Club-Polyester-Green-SDL019911900-1-e8441.webp",
+          "price": "269",
+          "strikedOfprice": "1599",
+          "rating": "4.5",
+          "id": 4
+        },
+        {
+          "name": "Veirdo - 100% Cotton Regular Fit Black Men's T-Shirt ( Pack of 2 )",
+          "image": "https://n3.sdlcdn.com/imgs/k/e/9/Veirdo-100-Cotton-Regular-Fit-SDL991207448-2-8f437.jpg",
+          "price": "499",
+          "strikedOfprice": "999",
+          "rating": "4.5",
+          "id": 5
+        },
+        {
+          "name": "NOW OR NEVER - Cotton Blend Regular Fit Black Men's T-Shirt ( Pack of 2 )",
+          "image": "https://n1.sdlcdn.com/imgs/k/e/r/NOW-OR-NEVER-Cotton-Blend-SDL564366224-1-10e69.jpg",
+          "price": "575",
+          "strikedOfprice": "1726",
+          "rating": "4.5",
+          "id": 6
+        },
+        {
+          "name": "KAPASIYA - Cotton Blend Regular Fit Orange Men's T-Shirt ( Pack of 1 )",
+          "image": "https://n3.sdlcdn.com/imgs/k/e/8/KAPASIYA-Cotton-Blend-Regular-Fit-SDL973899024-1-7edba.jpg",
+          "price": "650",
+          "strikedOfprice": "1289",
+          "rating": "4.5",
+          "id": 7
+        },
+        {
+          "name": "KAPASIYA - Cotton Blend Regular Fit Yellow Men's T-Shirt ( Pack of 1 )",
+          "image": "https://n3.sdlcdn.com/imgs/k/e/7/KAPASIYA-Cotton-Blend-Regular-Fit-SDL404722215-1-41904.jpg",
+          "price": "540",
+          "strikedOfprice": "1240",
+          "rating": "4.5",
+          "id": 8
+        },
+        {
+          "name": "Maniac - 100% Cotton Slim Fit White Men's T-Shirt ( Pack of 1 )",
+          "image": "https://n3.sdlcdn.com/imgs/k/e/z/Maniac-100-Cotton-Slim-Fit-SDL177052255-1-f7701.jpg",
+          "price": "419",
+          "strikedOfprice": "1720",
+          "rating": "4.5",
+          "id": 9
+        },
+        {
+          "name": "Maniac - 100% Cotton Slim Fit Navy Men's T-Shirt ( Pack of 1 )",
+          "image": "https://n2.sdlcdn.com/imgs/k/e/o/Maniac-100-Percent-Cotton-Slim-SDL416001461-1-f8db8.jpg",
+          "price": "439",
+          "strikedOfprice": "1239",
+          "rating": "4.5",
+          "id": 10
+        },
+        {
+          "name": "AUSK - Cotton Blend Regular Fit Blue Men's T-Shirt ( Pack of 1 )",
+          "image": "https://n1.sdlcdn.com/imgs/k/e/u/AUSK-Cotton-Blend-Regular-Fit-SDL266585104-1-803b0.jpg",
+          "price": "389",
+          "strikedOfprice": "1234",
+          "rating": "4.5",
+          "id": 11
+        },
+        {
+          "name": "David Crew - 100% Cotton Regular Fit Multi Men's T-Shirt ( Pack of 1 )",
+          "image": "https://n4.sdlcdn.com/imgs/k/e/u/David-Crew-100-Percent-Cotton-SDL895671834-1-3db35.jpg",
+          "price": "349",
+          "strikedOfprice": "999",
+          "rating": "4.5",
+          "id": 12
+        },
+        {
+          "name": "David Crew - Cotton Blend Regular Fit Grey Men's T-Shirt ( Pack of 1 )",
+          "image": "https://n3.sdlcdn.com/imgs/k/e/i/David-Crew-Cotton-Blend-Regular-SDL140239270-1-f95aa.jpg",
+          "price": "299",
+          "strikedOfprice": "500",
+          "rating": "4.5",
+          "id": 13
+        }
+      ]
+    },
+    {
+      "name": "shirt",
+      "data": [
+        {
+          "name": "Life Roads - 100% Cotton Slim Fit Black Men's Casual Shirt (Pack of 1)",
+          "image": "https://n4.sdlcdn.com/imgs/k/e/u/Life-Roads-100-Cotton-Slim-SDL140811803-1-7cd24.jpg",
+          "price": "649",
+          "strikedOfprice": "669",
+          "rating": "5",
+          "id": 1,
+          "size": "M"
+        },
+        {
+          "name": "Edinwolf - 100% Cotton Slim Fit Grey Men's Casual Shirt (Pack of 1)",
+          "image": "https://n4.sdlcdn.com/imgs/k/e/u/230X258_sharpened/Edinwolf-100-Cotton-Slim-Fit-SDL518971157-1-8034f.JPG",
+          "price": "499",
+          "strikedOfprice": "1999",
+          "rating": "4",
+          "id": 2,
+          "size": "M"
+        },
+        {
+          "name": "Gritstones - Cotton Blend Regular Fit Pink Men's Casual Shirt ( ,Pack of 1 )",
+          "image": "https://n4.sdlcdn.com/imgs/k/c/h/230X258_sharpened/Gritstones-Cotton-Blend-Pink-Shirt-SDL925642113-1-25e2a.webp",
+          "price": "419",
+          "strikedOfprice": "1699",
+          "rating": "4.5",
+          "id": 3,
+          "size": "M"
+        },
+        {
+          "name": "YHA - 100% Cotton Regular Fit Green Men's Casual Shirt ( Pack of 1 )",
+          "image": "https://n4.sdlcdn.com/imgs/k/e/5/YHA-100-Cotton-Regular-Fit-SDL444716283-1-1a8e0.jpeg",
+          "price": "519",
+          "strikedOfprice": "1499",
+          "rating": "4",
+          "id": 4,
+          "size": "M"
+        },
+        {
+          "name": "VeBNoR - Cotton Blend Slim Fit Pink Men's Casual Shirt ( )",
+          "image": "https://n3.sdlcdn.com/imgs/j/u/7/VeBNoR-Cotton-Blend-Pink-Shirt-SDL418935453-1-788b8.jpeg",
+          "price": "469",
+          "strikedOfprice": "1899",
+          "rating": "4",
+          "id": 5,
+          "size": "M"
+        },
+        {
+          "name": "Vida Loca - 100 Percent Cotton Regular Fit Dark Pink Men's Casual Shirt ( Pack of 1 )",
+          "image": "https://n3.sdlcdn.com/imgs/k/e/n/Vida-Loca-100-Percent-Cotton-SDL302236395-1-5d90c.jpg",
+          "price": "625",
+          "strikedOfprice": "1245",
+          "rating": "4.5",
+          "id": 6,
+          "size": "M"
+        },
+        {
+          "name": "DESHBANDHU DBK - 100% Cotton Regular Fit White Men's Casual Shirt (Pack of 1)",
+          "image": "https://n4.sdlcdn.com/imgs/k/e/u/DESHBANDHU-DBK-100-Cotton-Regular-SDL514325147-1-57553.jpg",
+          "price": "349",
+          "strikedOfprice": "888",
+          "rating": "4.5",
+          "id": 7,
+          "size": "M"
+        },
+        {
+          "name": "Raa Jeans - Denim Slim Fit Black Men's Casual Shirt (Pack of 1)",
+          "image": "https://n4.sdlcdn.com/imgs/k/e/v/Raa-Jeans-Denim-Slim-Fit-SDL901013430-1-d3063.jpg",
+          "price": "649",
+          "strikedOfprice": "1999",
+          "rating": "4.5",
+          "id": 8,
+          "size": "M"
+        },
+        {
+          "name": "DESHBANDHU DBK - 100% Cotton Regular Fit Grey Men's Formal Shirt (Pack of 1)",
+          "image": "https://n2.sdlcdn.com/imgs/k/e/t/DESHBANDHU-DBK-100-Cotton-Grey-SDL590993181-1-18582.jpg",
+          "price": "319",
+          "strikedOfprice": "1299",
+          "rating": "4.5",
+          "id": 9,
+          "size": "M"
+        },
+        {
+          "name": "P&V - 100% Cotton Slim Fit Black Men's Casual Shirt (Pack of 1)",
+          "image": "https://n3.sdlcdn.com/imgs/k/e/u/P-V-100-Cotton-Slim-SDL618486339-1-81250.jpg",
+          "price": "519",
+          "strikedOfprice": "780",
+          "rating": "4.5",
+          "id": 10,
+          "size": "M"
+        },
+        {
+          "name": "P&V - Cotton Blend Slim Fit Orange Men's Casual Shirt (Pack of 1)",
+          "image": "https://n4.sdlcdn.com/imgs/k/e/v/P-V-Cotton-Blend-Slim-SDL780360501-1-2422f.jpg",
+          "price": "519",
+          "strikedOfprice": "800",
+          "rating": "4.5",
+          "id": 11,
+          "size": "M"
+        },
+        {
+          "name": "Vida Loca - Linen Slim Fit White Men's Casual Shirt (Pack of 1)",
+          "image": "https://n1.sdlcdn.com/imgs/k/e/3/Vida-Loca-Linen-Slim-Fit-SDL525663292-1-9de19.jpg",
+          "price": "549",
+          "strikedOfprice": "2499",
+          "rating": "4.5",
+          "id": 12,
+          "size": "M"
+        }
+      ]
+    },
+    {
+      "name": "jeans",
+      "data": [
+        {
+          "name": "Urbano Fashion 100% Cotton Slim Fit Grey Men's Jeans ( Pack of 1 )",
+          "image": "https://n3.sdlcdn.com/imgs/k/b/5/Urbano-Fashion-Grey-Slim-Jeans-SDL139395839-1-e695c.jpg",
+          "price": "649",
+          "strikedOfprice": "1169",
+          "rating": "4",
+          "id": 1,
+          "size": "M"
+        },
+        {
+          "name": "Urbano Fashion Cotton Blend Slim Fit Black Men's Jeans ( Pack of 1 )",
+          "image": "https://n4.sdlcdn.com/imgs/k/f/b/Urbano-Fashion-Cotton-Blend-Slim-SDL732981517-1-32334.jpg",
+          "price": "599",
+          "strikedOfprice": "999",
+          "rating": "4",
+          "id": 2,
+          "size": "M"
+        },
+        {
+          "name": "Rea-lize Cotton Blend Regular Fit Black Men's Jeans ( Pack of 1 )",
+          "image": "https://n3.sdlcdn.com/imgs/j/o/n/Campus-Black-Casual-Shoes-SDL266461164-4-428e2.jpeg",
+          "price": "799",
+          "strikedOfprice": "999",
+          "rating": "4.5",
+          "id": 3,
+          "size": "M"
+        },
+        {
+          "name": "Rea-lize Cotton Blend Regular Fit Black Men's Jeans ( Pack of 1 )",
+          "image": "https://n3.sdlcdn.com/imgs/k/c/e/Rea-lize-Black-Regular-Fit-SDL136752555-3-d7274.jpg",
+          "price": "899",
+          "strikedOfprice": "999",
+          "rating": "4.5",
+          "id": 4,
+          "size": "M"
+        },
+        {
+          "name": "Raa Jeans Denim Slim Fit Blue Men's Jeans ( Pack of 1 )",
+          "image": "https://n1.sdlcdn.com/imgs/j/q/w/Raa-Jeans-Blue-Slim-Jeans-SDL823508127-1-75ee7.jpg",
+          "price": "799",
+          "strikedOfprice": "999",
+          "rating": "4.5",
+          "id": 5,
+          "size": "M"
+        },
+        {
+          "name": "DANUZZZ Blue Slim Jeans Single",
+          "image": "https://n4.sdlcdn.com/imgs/k/c/m/DANUZZZ-Blue-Slim-Jeans-Single-SDL005072793-1-9b949.jpg",
+          "price": "799",
+          "strikedOfprice": "1500",
+          "rating": "4.5",
+          "id": 6
+        },
+        {
+          "name": "Rea-lize Cotton Blend Regular Fit Blue Men's Jeans ( Pack of 1 )",
+          "image": "https://n2.sdlcdn.com/imgs/k/d/s/Rea-lize-Blue-Regular-Fit-SDL127652358-1-7e70a.jpeg",
+          "price": "775",
+          "strikedOfprice": "1800",
+          "rating": "4.5",
+          "id": 7,
+          "size": "M"
+        },
+        {
+          "name": "MODO Denim Slim Fit Light Blue Men's Jeans ( Pack of 1 )",
+          "image": "https://n2.sdlcdn.com/imgs/k/b/5/MODO-Light-Blue-Slim-Jeans-SDL234304721-1-ace09.jpg",
+          "price": "1200",
+          "strikedOfprice": "2000",
+          "rating": "4.5",
+          "id": 8,
+          "size": "M"
+        },
+        {
+          "name": "MODO Denim Slim Fit Black Men's Jeans ( Pack of 1 )",
+          "image": "https://n3.sdlcdn.com/imgs/k/f/b/MODO-Denim-Slim-Fit-Black-SDL771939286-1-4d5c6.jpg",
+          "price": "539",
+          "strikedOfprice": "999",
+          "rating": "4.5",
+          "id": 9,
+          "size": "M"
+        },
+        {
+          "name": "Urbano Fashion Cotton Blend Slim Fit Black Men's Jeans ( Pack of 1 )",
+          "image": "https://n1.sdlcdn.com/imgs/f/8/p/Urbano-Fashion-Black-Slim-Jeans-SDL243120339-1-86604.jpeg",
+          "price": "699",
+          "strikedOfprice": "980",
+          "rating": "4.5",
+          "id": 10,
+          "size": "M"
+        },
+        {
+          "name": "Studio Nexx Cotton Blend Regular Fit Blue Men's Jeans ( Pack of 1 )",
+          "image": "https://n2.sdlcdn.com/imgs/k/b/5/Studio-Nexx-Blue-Regular-Fit-SDL982994310-1-5afc9.jpg",
+          "price": "539",
+          "strikedOfprice": "890",
+          "rating": "4.5",
+          "id": 11,
+          "size": "M"
+        },
+        {
+          "name": "L,Zard Denim Slim Fit Blue Men's Jeans ( Pack of 1 )",
+          "image": "https://n4.sdlcdn.com/imgs/k/e/3/L-Zard-Denim-Slim-Fit-SDL398673640-1-d98fe.jpg",
+          "price": "716",
+          "strikedOfprice": "1200",
+          "rating": "4.5",
+          "id": 12,
+          "size": "M"
+        }
+      ]
+    },
+    {
+      "name": "trouser_and_chinos",
+      "data": []
+    }
+  ],
+  "womans_clothing": [
+    {
+      "name": "saree",
+      "data": [
+        {
+          "name": "Bhakarwadi - Silk Blend Black With Blouse Piece ( Pack of 1 )",
+          "image": "https://n2.sdlcdn.com/imgs/k/b/m/Bhakarwadi-Black-Art-Silk-Saree-SDL762653447-1-eb79c.jpg",
+          "price": "329",
+          "strikedOfprice": "1799",
+          "rating": "4.5",
+          "id": 1,
+          "size": "5.5M"
+        },
+        {
+          "name": "Handloom Cotton Silk Yellow With Blouse Piece Saree -",
+          "image": "https://n3.sdlcdn.com/imgs/k/e/s/Handloom-Cotton-Silk-Yellow-With-SDL465148751-1-3f4ad.jpg",
+          "price": "600",
+          "strikedOfprice": "1200",
+          "rating": "4.5",
+          "id": 2,
+          "size": "5.5M"
+        },
+        {
+          "name": "Bhakarwadi - Silk Blend Multicolor With Blouse Piece ( Pack of 1 )",
+          "image": "https://n2.sdlcdn.com/imgs/j/w/o/Bhakarwadi-Red-Art-Silk-Saree-SDL564939422-1-fdc5b.jpg",
+          "price": "349",
+          "strikedOfprice": "700",
+          "rating": "4.5",
+          "id": 3,
+          "size": "5.5M"
+        },
+        {
+          "name": "Gazal Fashions - Cotton Multicolor With Blouse Piece ( Pack of 1 )",
+          "image": "https://n3.sdlcdn.com/imgs/j/p/b/Gazal-Fashions-White-Black-Cotton-SDL433619964-1-1f62f.jpeg",
+          "price": "349",
+          "strikedOfprice": "2000",
+          "rating": "4.5",
+          "id": 4,
+          "size": "5.5M"
+        },
+        {
+          "name": "Hritika Pink Georgette Saree - Single",
+          "image": "https://n3.sdlcdn.com/imgs/k/c/s/Hritika-Pink-Georgette-Saree-Single-SDL546550294-1-89086.jpg",
+          "price": "280",
+          "strikedOfprice": "800",
+          "rating": "4.5",
+          "id": 5
+        },
+        {
+          "name": "Gazal Fashions - Silk Blend Maroon With Blouse Piece ( Pack of 1 )",
+          "image": "https://n3.sdlcdn.com/imgs/j/w/4/Gazal-Fashions-Maroon-Lycra-Saree-SDL631196256-1-8389d.jpeg",
+          "price": "469",
+          "strikedOfprice": "900",
+          "rating": "4.5",
+          "id": 6,
+          "size": "5.5M"
+        },
+        {
+          "name": "Bhakarwadi - Cotton Blend Multicolor With Blouse Piece ( Pack of 1 )",
+          "image": "https://n4.sdlcdn.com/imgs/j/t/b/Bhakarwadi-Green-Beige-Khadi-Saree-SDL323903618-1-0b7f0.jpeg",
+          "price": "649",
+          "strikedOfprice": "1200",
+          "rating": "4.5",
+          "id":7 ,
+          "size": "5.5M"
+        },
+        {
+          "name": "Gazal Fashions - Chiffon Blue With Blouse Piece ( Pack of 1 )",
+          "image": "https://n1.sdlcdn.com/imgs/k/b/j/Gazal-Fashions-Blue-Green-Chiffon-SDL031723521-1-cb8e5.jpg",
+          "price": "539",
+          "strikedOfprice": "1200",
+          "rating": "4.5",
+          "id": 8,
+          "size": "5.5M"
+        },
+        {
+          "name": "Hritika Yellow Silk Blend Saree - Single",
+          "image": "https://n4.sdlcdn.com/imgs/k/b/d/Hritika-Yellow-Silk-Blend-Saree-SDL632293763-1-7b374.jpg",
+          "price": "575",
+          "strikedOfprice": "1200",
+          "rating": "4.5",
+          "id": 9,
+          "size": "5.5M"
+        },
+        {
+          "name": "Sherine - Silk Blend White With Blouse Piece ( Pack of 1 )",
+          "image": "https://n3.sdlcdn.com/imgs/j/x/u/Sherine-White-Art-Silk-Saree-SDL467237288-1-6ea26.jpeg",
+          "price": "299",
+          "strikedOfprice": "1250",
+          "rating": "4.5",
+          "id": 10,
+          "size": "5.5M"
+        },
+        {
+          "name": "Alexplum - Silk Blend Red With Stitched Blouse ( Pack of 1 )",
+          "image": "https://n1.sdlcdn.com/imgs/j/x/w/Alexplum-Red-Bhagalpuri-Silk-Saree-SDL491206765-1-20aaa.jpeg",
+          "price": "349",
+          "strikedOfprice": "1200",
+          "rating": "4.5",
+          "id": 11,
+          "size": "5.5M"
+        },
+        {
+          "name": "Gazal Fashions - Banarasi Silk Multicolor With Blouse Piece ( Pack of 1 )",
+          "image": "https://n3.sdlcdn.com/imgs/j/r/y/Gazal-Fashions-Maroon-Beige-Banarasi-SDL246219847-1-96066.jpg",
+          "price": "526",
+          "strikedOfprice": "1200",
+          "rating": "4.5",
+          "id": 12,
+          "size": "5.5M"
+        }
+      ]
+    },
+    {
+      "name": "salwar-suit",
+      "data": [
+        {
+          "name": "Miss Ethnik Maroon Georgette Pakistani Semi-Stitched Suit - Single",
+          "image": "https://n1.sdlcdn.com/imgs/k/d/a/Miss-Ethnik-Maroon-Georgette-Pakistani-SDL392726751-1-a4817.jpg",
+          "price": "1799",
+          "strikedOfprice": "2500",
+          "rating": "4.5",
+          "id": 1,
+          "size": "M"
+        },
+        {
+          "name": "Panihari White Cotton Unstitched Dress Material",
+          "image": "https://n2.sdlcdn.com/imgs/j/s/1/Panihari-White-Cotton-Unstitched-Dress-SDL859259320-1-26ffc.jpeg",
+          "price": "599",
+          "strikedOfprice": "1200",
+          "rating": "4.5",
+          "id": 2,
+          "size": "M"
+        },
+        {
+          "name": "Kkrish Beige Cotton Dress Material",
+          "image": "https://n4.sdlcdn.com/imgs/j/i/k/Kkrish-Beige-Cotton-Dress-Material-SDL442521966-1-44c03.jpeg",
+          "price": "519",
+          "strikedOfprice": "800",
+          "rating": "4.5",
+          "id": 3,
+          "size": "M"
+        },
+        {
+          "name": "Panihari Creations Blue,Red Cotton Unstitched Dress Material - Single",
+          "image": "https://n1.sdlcdn.com/imgs/j/v/t/Panihari-Creations-Blue-Red-Cotton-SDL908712887-1-15e39.jpeg",
+          "price": "439",
+          "strikedOfprice": "700",
+          "rating": "4.5",
+          "id": 4,
+          "size": "M"
+        },
+        {
+          "name": "Nityapal Pink Cotton Unstitched Dress Material -",
+          "image": "https://n2.sdlcdn.com/imgs/j/y/g/Nityapal-Pink-Cotton-Unstitched-Dress-SDL428841737-1-b4e16.jpg",
+          "price": "599",
+          "strikedOfprice": "2500",
+          "rating": "4.5",
+          "id": 5,
+          "size": "M"
+        },
+        {
+          "name": "shree jeenmata collection Black Cotton Unstitched Dress Material",
+          "image": "https://n2.sdlcdn.com/imgs/j/q/2/shree-jeenmata-collection-Black-Cotton-SDL009486378-1-ee4a3.jpeg",
+          "price": "799",
+          "strikedOfprice": "1800",
+          "rating": "4.5",
+          "id": 6,
+          "size": "M"
+        },
+        {
+          "name": "shree jeenmata collection Brown Crepe Dress Material",
+          "image": "https://n1.sdlcdn.com/imgs/j/d/w/shree-jeenmata-collection-Brown-Crepe-SDL263605591-1-47846.jpg",
+          "price": "439",
+          "strikedOfprice": "800",
+          "rating": "4.5",
+          "id": 7,
+          "size": "M"
+        },
+        {
+          "name": "Sherine Green Cotton Unstitched Dress Material",
+          "image": "https://n2.sdlcdn.com/imgs/j/p/6/Sherine-Green-Cotton-Unstitched-Dress-SDL673580809-1-e66e7.jpg",
+          "price": "649",
+          "strikedOfprice": "1250",
+          "rating": "4.5",
+          "id": 8,
+          "size": "M"
+        },
+        {
+          "name": "shree jeenmata collection Orange Cotton Unstitched Dress Material - Single",
+          "image": "https://n4.sdlcdn.com/imgs/k/c/8/shree-jeenmata-collection-Orange-Cotton-SDL643082931-1-a713f.jpg",
+          "price": "849",
+          "strikedOfprice": "1200",
+          "rating": "4.5",
+          "id": 9,
+          "size": "M"
+        },
+        {
+          "name": "Sherine Pink Crepe Unstitched Dress Material - Single",
+          "image": "https://n2.sdlcdn.com/imgs/j/w/0/Sherine-Pink-Crepe-Unstitched-Dress-SDL401426970-1-fdbc0.jpeg",
+          "price": "347",
+          "strikedOfprice": "800",
+          "rating": "4.5",
+          "id": 10,
+          "size": "M"
+        },
+        {
+          "name": "MANJULA SAREE Beige Banarasi Silk Unstitched Dress Material",
+          "image": "https://n1.sdlcdn.com/imgs/j/t/9/MANJULA-SAREE-Beige-Banarasi-Silk-SDL788935809-1-a6440.jpeg",
+          "price": "800",
+          "strikedOfprice": "1200",
+          "rating": "4.5",
+          "id": 11,
+          "size": "M"
+        },
+        {
+          "name": "Sherine Green Crepe Unstitched Dress Material",
+          "image": "https://n1.sdlcdn.com/imgs/j/r/1/Sherine-Green-Crepe-Unstitched-Dress-SDL430068151-1-87d42.jpg",
+          "price": "750",
+          "strikedOfprice": "2500",
+          "rating": "4.5",
+          "id": 12,
+          "size": "M"
+        }
+      ]
+    },
+    {
+      "name": "lehngas",
+      "data": [
+        {
+          "name": "Shree But Bhavani Creation Blue Tussar Silk Unstitched Semi Stitched Lehenga",
+          "image": "https://n4.sdlcdn.com/imgs/k/d/9/Shree-But-Bhavani-Creation-Blue-SDL687947202-1-ee450.jpeg",
+          "price": "799",
+          "strikedOfprice": "1200",
+          "rating": "4.5",
+          "id": 1,
+          "size": "M"
+        },
+        {
+          "name": "Lady Shopi Blue Velvet Chaniya Choli Semi Stitched Lehenga",
+          "image": "https://n4.sdlcdn.com/imgs/k/b/m/Lady-Shopi-Blue-Velvet-Chaniya-SDL069972842-1-09775.jpg",
+          "price": "600",
+          "strikedOfprice": "1600",
+          "rating": "4.5",
+          "id": 2,
+          "size": "M"
+        },
+        {
+          "name": "MecZZON Blue Taffeta Chaniya Choli Semi Stitched Lehenga",
+          "image": "https://n4.sdlcdn.com/imgs/j/t/v/MecZZON-Blue-Taffeta-Chaniya-Choli-SDL802321411-1-69988.jpg",
+          "price": "780",
+          "strikedOfprice": "1200",
+          "rating": "4.5",
+          "id": 3,
+          "size": "M"
+        },
+        {
+          "name": "Lady Shopi Red Velvet Chaniya Choli Semi Stitched Lehenga",
+          "image": "https://n4.sdlcdn.com/imgs/k/b/m/Lady-Shopi-Red-Velvet-Chaniya-SDL152248626-1-d214c.jpg",
+          "price": "1200",
+          "strikedOfprice": "2500",
+          "rating": "4.5",
+          "id": 4,
+          "size": "M"
+        },
+        {
+          "name": "Maroosh Pink Net Unstitched Semi Stitched Lehenga Single",
+          "image": "https://n3.sdlcdn.com/imgs/k/c/s/Maroosh-Pink-Net-Unstitched-Semi-SDL030634766-1-483a9.jpg",
+          "price": "1150",
+          "strikedOfprice": "2350",
+          "rating": "4.5",
+          "id": 5,
+          "size": "M"
+        },
+        {
+          "name": "Aika Black Net Chaniya Choli Semi Stitched Lehenga Single",
+          "image": "https://n1.sdlcdn.com/imgs/k/d/7/Aika-Black-Net-Chaniya-Choli-SDL265173587-1-f7a38.jpeg",
+          "price": "800",
+          "strikedOfprice": "1300",
+          "rating": "4.5",
+          "id": 6,
+          "size": "M"
+        },
+        {
+          "name": "ULTRINA Pink Organza Unstitched Semi Stitched Lehenga Single",
+          "image": "https://n3.sdlcdn.com/imgs/j/v/q/ULTRINA-Pink-Organza-Unstitched-Semi-SDL471103490-1-6b70c.jpg",
+          "price": "750",
+          "strikedOfprice": "900",
+          "rating": "4.5",
+          "id": 7,
+          "size": "M"
+        },
+        {
+          "name": "DWIDEN Blue Taffeta Chaniya",
+          "image": "https://n2.sdlcdn.com/imgs/j/t/q/DWIDEN-Blue-Taffeta-Chaniya-Choli-SDL558312298-1-835b9.jpg",
+          "price": "1350",
+          "strikedOfprice": "2350",
+          "rating": "4.5",
+          "id": 8,
+          "size": "M"
+        },
+        {
+          "name": "KV Fashion Blue Velvet Chaniya",
+          "image": "https://n3.sdlcdn.com/imgs/k/b/t/KV-Fashion-Blue-Velvet-Chaniya-SDL200601942-1-1a117.jpg",
+          "price": "700",
+          "strikedOfprice": "1500",
+          "rating": "4.5",
+          "id": 9,
+          "size": "M"
+        },
+        {
+          "name": "Shital Fashion World White Net",
+          "image": "https://n1.sdlcdn.com/imgs/k/e/d/Shital-Fashion-World-White-Net-SDL319959856-1-cfcc9.jpg",
+          "price": "650",
+          "strikedOfprice": "1200",
+          "rating": "4.5",
+          "id": 10,
+          "size": "M"
+        },
+        {
+          "name": "Zistatva Blue,Red,Purple",
+          "image": "https://n4.sdlcdn.com/imgs/j/n/l/Zistatva-Blue-Red-Purple-Taffeta-SDL476920420-1-51553.jpg",
+          "price": "870",
+          "strikedOfprice": "1300",
+          "rating": "4.5",
+          "id": 11,
+          "size": "M"
+        },
+        {
+          "name": "MecZZON Maroon Taffeta",
+          "image": "https://n2.sdlcdn.com/imgs/j/t/v/MecZZON-Maroon-Taffeta-Chaniya-Choli-SDL245195555-1-a0174.jpg",
+          "price": "600",
+          "strikedOfprice": "1200",
+          "rating": "4.5",
+          "id": 12,
+          "size": "M"
+        }
+      ]
+    },
+    {
+      "name": "jeans",
+      "data": [
+        {
+          "name": "Sequin Crafts Cotton Single",
+          "image": "https://n3.sdlcdn.com/imgs/j/r/u/Sequin-Crafts-Cotton-Single-Harem-SDL175107354-1-d2c41.jpg",
+          "price": "799",
+          "strikedOfprice": "1200",
+          "rating": "4.5",
+          "id": 1,
+          "size": "M"
+        },
+        {
+          "name": "PT LEGGINGS Satin Single",
+          "image": "https://n1.sdlcdn.com/imgs/j/t/l/PT-LEGGINGS-Satin-Single-Leggings-SDL991402614-1-11d6e.jpg",
+          "price": "600",
+          "strikedOfprice": "1600",
+          "rating": "4.5",
+          "id": 2,
+          "size": "M"
+        },
+        {
+          "name": "shri hub Cotton Single Salwar",
+          "image": "https://n1.sdlcdn.com/imgs/j/l/5/shri-hub-Cotton-Single-Salwar-SDL211891489-1-7770f.jpeg",
+          "price": "780",
+          "strikedOfprice": "1200",
+          "rating": "4.5",
+          "id": 3,
+          "size": "M"
+        },
+        {
+          "name": "PT LEGGINGS Satin Single",
+          "image": "https://n2.sdlcdn.com/imgs/j/u/t/PT-LEGGINGS-Satin-Leggings-Single-SDL538822686-1-9cb84.jpeg",
+          "price": "1200",
+          "strikedOfprice": "2500",
+          "rating": "4.5",
+          "id": 4,
+          "size": "M"
+        },
+        {
+          "name": "shri hub Cotton Semi Patiala",
+          "image": "https://n1.sdlcdn.com/imgs/k/a/8/shri-hub-Cotton-Semi-Patiala-SDL207094736-1-3fb6c.jpg",
+          "price": "1150",
+          "strikedOfprice": "2350",
+          "rating": "4.5",
+          "id": 5,
+          "size": "M"
+        },
+        {
+          "name": "Robin Romeo Viscose Single",
+          "image": "https://n3.sdlcdn.com/imgs/j/o/w/Robin-Romeo-Viscose-Single-Leggings-SDL082559013-1-9d82a.jpeg",
+          "price": "800",
+          "strikedOfprice": "1300",
+          "rating": "4.5",
+          "id": 6,
+          "size": "M"
+        },
+        {
+          "name": "shri hub Cotton Single Salwar",
+          "image": "https://n1.sdlcdn.com/imgs/j/p/e/shri-hub-Cotton-Single-Salwar-SDL326916172-1-2df87.jpeg",
+          "price": "750",
+          "strikedOfprice": "900",
+          "rating": "4.5",
+          "id": 7,
+          "size": "L"
+        },
+        {
+          "name": "avinzo Cotton Patiala - Single",
+          "image": "https://n4.sdlcdn.com/imgs/j/y/b/avinzo-Cotton-Patiala-Single-SDL221675741-1-93921.jpg",
+          "price": "1350",
+          "strikedOfprice": "2350",
+          "rating": "4.5",
+          "id": 8,
+          "size": "M"
+        },
+        {
+          "name": "ANADI Cotton Leggings - Single",
+          "image": "https://n2.sdlcdn.com/imgs/j/x/u/ANADI-Cotton-Leggings-Single-SDL216972630-1-0ff8e.png",
+          "price": "700",
+          "strikedOfprice": "1500",
+          "rating": "4.5",
+          "id": 9,
+          "size": "M"
+        },
+        {
+          "name": "avinzo Cotton Single Semi",
+          "image": "https://n4.sdlcdn.com/imgs/j/b/0/avinzo-Cotton-Single-Semi-Patiala-SDL006049318-1-930ff.jpg",
+          "price": "650",
+          "strikedOfprice": "1200",
+          "rating": "4.5",
+          "id": 10,
+          "size": "M"
+        },
+        {
+          "name": "avinzo Cotton Single Semi",
+          "image": "https://n2.sdlcdn.com/imgs/j/b/0/avinzo-Cotton-Single-Semi-Patiala-SDL083739661-1-da5f0.jpg",
+          "price": "870",
+          "strikedOfprice": "1300",
+          "rating": "4.5",
+          "id": 11,
+          "size": "M"
+        },
+        {
+          "name": "HomeShop.Fashion Polyester",
+          "image": "https://n4.sdlcdn.com/imgs/j/w/k/HomeShop-Fashion-Polyester-Leggings-Single-SDL514324002-1-43ea2.jpeg",
+          "price": "600",
+          "strikedOfprice": "1200",
+          "rating": "4.5",
+          "id": 12,
+          "size": "M"
+        }
+      ]
+    }
+  ],
+  "womens_footwear": [
+    {
+      "name": "heels",
+      "data": [
+        {
+          "name": "Do Bhai Black Block Heels",
+          "image": "https://n4.sdlcdn.com/imgs/k/c/h/Do-Bhai-Black-Block-Heels-SDL584528583-1-29a97.jpeg",
+          "price": "799",
+          "strikedOfprice": "1200",
+          "rating": "4.5",
+          "id": 1,
+          "size": "6"
+        },
+        {
+          "name": "Do Bhai Gold Wedges Heels",
+          "image": "https://n3.sdlcdn.com/imgs/j/s/w/Do-Bhai-Gold-Wedges-Heels-SDL717670215-1-fa587.jpg",
+          "price": "600",
+          "strikedOfprice": "1600",
+          "rating": "4.5",
+          "id": 2,
+          "size": "6"
+        },
+        {
+          "name": "Street Style Store White",
+          "image": "https://n4.sdlcdn.com/imgs/j/w/a/Street-Style-Store-White-Block-SDL676834294-1-668da.jpg",
+          "price": "780",
+          "strikedOfprice": "1200",
+          "rating": "4.5",
+          "id": 3,
+          "size": "6"
+        },
+        {
+          "name": "Shoetopia Gray Platforms Heels",
+          "image": "https://n1.sdlcdn.com/imgs/k/b/b/Shoetopia-Gray-Platforms-Heels-SDL179920023-1-81721.jpg",
+          "price": "1200",
+          "strikedOfprice": "2500",
+          "rating": "4.5",
+          "id": 4,
+          "size": "6"
+        },
+        {
+          "name": "Blackwood Red Block Heels",
+          "image": "https://n3.sdlcdn.com/imgs/b/g/c/Blackwood-Red-Block-Heels-SDL586121384-1-caea6.jpg",
+          "price": "1150",
+          "strikedOfprice": "2350",
+          "rating": "4.5",
+          "id": 5,
+          "size": "6"
+        },
+        {
+          "name": "Feel It Gold Wedges Heels",
+          "image": "https://n4.sdlcdn.com/imgs/h/w/o/Feel-It-Gold-Wedges-Heels-SDL899242562-1-4a631.jpg",
+          "price": "800",
+          "strikedOfprice": "1300",
+          "rating": "4.5",
+          "id": 6,
+          "size": "6"
+        },
+        {
+          "name": "Street Style Store Beige",
+          "image": "https://n3.sdlcdn.com/imgs/j/y/p/Street-Style-Store-Beige-Block-SDL312948132-1-3599c.jpeg",
+          "price": "750",
+          "strikedOfprice": "900",
+          "rating": "4.5",
+          "id": 7,
+          "size": "6"
+        },
+        {
+          "name": "Rimezs Apricot Wedges Heels",
+          "image": "https://n2.sdlcdn.com/imgs/k/d/y/Rimezs-Apricot-Wedges-Heels-SDL918384275-1-9ee55.JPG",
+          "price": "1350",
+          "strikedOfprice": "2350",
+          "rating": "4.5",
+          "id": 8,
+          "size": "6"
+        },
+        {
+          "name": "Khadim's Navy Wedges Heels",
+          "image": "https://n1.sdlcdn.com/imgs/j/e/v/Khadim-s-Navy-Wedges-Heels-SDL544481358-1-e6cac.jpg",
+          "price": "700",
+          "strikedOfprice": "1500",
+          "rating": "4.5",
+          "id": 9,
+          "size": "6"
+        },
+        {
+          "name": "Rimezs Maroon Wedges Heels",
+          "image": "https://n1.sdlcdn.com/imgs/j/w/1/Rimezs-Maroon-Wedges-Heels-SDL867451393-1-fa941.jpg",
+          "price": "650",
+          "strikedOfprice": "1200",
+          "rating": "4.5",
+          "id": 10,
+          "size": "6"
+        },
+        {
+          "name": "Do Bhai Brown Wedges Heels",
+          "image": "https://n1.sdlcdn.com/imgs/j/x/x/Do-Bhai-Brown-Wedges-Heels-SDL915386484-1-c2d5e.jpg",
+          "price": "870",
+          "strikedOfprice": "1300",
+          "rating": "4.5",
+          "id": 11,
+          "size": "6"
+        },
+        {
+          "name": "Shoetopia Yellow Platforms Heels",
+          "image": "https://n3.sdlcdn.com/imgs/k/b/b/Shoetopia-Yellow-Platforms-Heels-SDL188041459-1-a58f7.jpg",
+          "price": "600",
+          "strikedOfprice": "1200",
+          "rating": "4.5",
+          "id": 12,
+          "size": "6"
+        }
+      ]
+    },
+    {
+      "name": "flats-sandals",
+      "data": [
+        {
+          "name": "Street Style Store White Flats",
+          "image": "https://n4.sdlcdn.com/imgs/k/d/9/Street-Style-Store-White-Flats-SDL678817112-1-87e59.jpg",
+          "price": "799",
+          "strikedOfprice": "1200",
+          "rating": "4.5",
+          "id": 1,
+          "size": "6"
+        },
+        {
+          "name": "Aerowalk Brown Flats",
+          "image": "https://n2.sdlcdn.com/imgs/j/c/8/Aerowalk-Brown-Flats-SDL882621662-1-871cf.jpg",
+          "price": "600",
+          "strikedOfprice": "1600",
+          "rating": "4.5",
+          "id": 2,
+          "size": "6"
+        },
+        {
+          "name": "Inblu Black Flats",
+          "image": "https://n1.sdlcdn.com/imgs/i/6/9/Inblu-Black-Flats-SDL233438282-1-e1608.jpg",
+          "price": "780",
+          "strikedOfprice": "1200",
+          "rating": "4.5",
+          "id": 3,
+          "size": "6"
+        },
+        {
+          "name": "Sayera Black Flats",
+          "image": "https://n1.sdlcdn.com/imgs/j/u/q/Sayera-Black-Flats-SDL644562851-1-44fbe.jpg",
+          "price": "1200",
+          "strikedOfprice": "2500",
+          "rating": "4.5",
+          "id": 4,
+          "size": "6"
+        },
+        {
+          "name": "Aerowalk Black Flats",
+          "image": "https://n2.sdlcdn.com/imgs/j/f/g/Aerowalk-Black-Flats-SDL897205970-1-d4a17.jpeg",
+          "price": "1150",
+          "strikedOfprice": "2350",
+          "rating": "4.5",
+          "id": 5,
+          "size": "6"
+        },
+        {
+          "name": "WALK N STYLE COLLECTION",
+          "image": "https://n2.sdlcdn.com/imgs/j/r/j/WALK-N-STYLE-COLLECTION-Beige-SDL669004326-1-7b871.jpg",
+          "price": "800",
+          "strikedOfprice": "1300",
+          "rating": "4.5",
+          "id": 6,
+          "size": "6"
+        },
+        {
+          "name": "Aerowalk Black Flats",
+          "image": "https://n1.sdlcdn.com/imgs/j/o/3/Aerowalk-Black-Flats-SDL757747069-1-86dfa.jpg",
+          "price": "750",
+          "strikedOfprice": "900",
+          "rating": "4.5",
+          "id": 7,
+          "size": "6"
+        },
+        {
+          "name": "Street Style Store Gold Flats",
+          "image": "https://n2.sdlcdn.com/imgs/j/x/6/Street-Style-Store-Gold-Flats-SDL338004288-1-b3c66.jpg",
+          "price": "1350",
+          "strikedOfprice": "2350",
+          "rating": "4.5",
+          "id": 8,
+          "size": "6"
+        },
+        {
+          "name": "Aerowalk Blue Flats",
+          "image": "https://n4.sdlcdn.com/imgs/j/r/a/Aerowalk-Blue-Flats-SDL037589925-3-6150b.jpg",
+          "price": "700",
+          "strikedOfprice": "1500",
+          "rating": "4.5",
+          "id": 9,
+          "size": "6"
+        },
+        {
+          "name": "RAGE GAZE Green Flats",
+          "image": "https://n1.sdlcdn.com/imgs/k/a/7/RAGE-GAZE-Green-Flats-SDL753302011-1-7f3c0.png",
+          "price": "650",
+          "strikedOfprice": "1200",
+          "rating": "4.5",
+          "id": 10,
+          "size": "6"
+        },
+        {
+          "name": "Inblu Tan Flats",
+          "image": "https://n4.sdlcdn.com/imgs/j/q/7/Inblu-Tan-Flats-SDL590172766-1-50ae5.jpeg",
+          "price": "870",
+          "strikedOfprice": "1300",
+          "rating": "4.5",
+          "id":11,
+          "size": "6"
+        },
+        {
+          "name": "Aerowalk Red Flats",
+          "image": "https://n3.sdlcdn.com/imgs/j/r/x/Aerowalk-Red-Flats-SDL332688587-1-6e843.jpeg",
+          "price": "600",
+          "strikedOfprice": "1200",
+          "rating": "4.5",
+          "id": 12,
+          "size": "6"
+        }
+      ]
+    },
+    {
+      "name": "slipper-flipflop",
+      "data": [
+        {
+          "name": "Ryan Overseas White Slippers",
+          "image": "https://n2.sdlcdn.com/imgs/j/x/i/Ryan-Overseas-White-Slippers-SDL296059117-1-1467b.jpg",
+          "price": "799",
+          "strikedOfprice": "1200",
+          "rating": "4.5",
+          "id": 1,
+          "size": "6"
+        },
+        {
+          "name": "Squash Maroon Slippers",
+          "image": "https://n3.sdlcdn.com/imgs/j/w/o/Squash-Maroon-Slippers-SDL665738203-1-aa917.jpg",
+          "price": "600",
+          "strikedOfprice": "1600",
+          "rating": "4.5",
+          "id": 2,
+          "size": "6"
+        },
+        {
+          "name": "PKKART Multi Color Pack of 2",
+          "image": "https://n3.sdlcdn.com/imgs/j/y/v/PKKART-Multi-Color-Slippers-SDL248293942-1-6fd24.jpg",
+          "price": "780",
+          "strikedOfprice": "1200",
+          "rating": "4.5",
+          "id": 3,
+          "size": "6"
+        },
+        {
+          "name": "DOCTOR EXTRA SOFT Black",
+          "image": "https://n2.sdlcdn.com/imgs/j/l/m/DOCTOR-EXTRA-SOFT-Black-Slippers-SDL034825726-1-c863e.jpg",
+          "price": "1200",
+          "strikedOfprice": "2500",
+          "rating": "4.5",
+          "id": 4,
+          "size": "6"
+        },
+        {
+          "name": "Ailtino Red Slippers",
+          "image": "https://n1.sdlcdn.com/imgs/j/t/b/Ailtino-Red-Slippers-SDL335915655-1-b19fb.jpeg",
+          "price": "1150",
+          "strikedOfprice": "2350",
+          "rating": "4.5",
+          "id": 5,
+          "size": "6"
+        },
+        {
+          "name": "Paragon Pink Slippers",
+          "image": "https://n3.sdlcdn.com/imgs/j/x/7/Paragon-Pink-Slippers-SDL720172784-1-f921a.jpg",
+          "price": "800",
+          "strikedOfprice": "1300",
+          "rating": "4.5",
+          "id": 6,
+          "size": "6"
+        },
+        {
+          "name": "Squash Tan Slippers",
+          "image": "https://n2.sdlcdn.com/imgs/j/x/c/Squash-Tan-Slippers-SDL537183736-1-302ab.jpeg",
+          "price": "750",
+          "strikedOfprice": "900",
+          "rating": "4.5",
+          "id": 7,
+          "size": "6"
+        },
+        {
+          "name": "DOCTOR EXTRA SOFT Blue Slides",
+          "image": "https://n2.sdlcdn.com/imgs/k/c/w/DOCTOR-EXTRA-SOFT-Blue-Slides-SDL517204461-1-d9ccb.jpg",
+          "price": "1350",
+          "strikedOfprice": "2350",
+          "rating": "4.5",
+          "id": 8,
+          "size": "6"
+        },
+        {
+          "name": "Inblu Black Slippers",
+          "image": "https://n2.sdlcdn.com/imgs/j/e/z/Inblu-Black-Slippers-SDL581767791-1-e964f.jpg",
+          "price": "700",
+          "strikedOfprice": "1500",
+          "rating": "4.5",
+          "id": 9,
+          "size": "6"
+        },
+        {
+          "name": "PKKART Multi Color Pack of 2",
+          "image": "https://n1.sdlcdn.com/imgs/j/v/j/PKKART-Multi-Color-Slippers-SDL790290648-1-b4e0d.jpg",
+          "price": "650",
+          "strikedOfprice": "1200",
+          "rating": "4.5",
+          "id": 10,
+          "size": "6"
+        },
+        {
+          "name": "DOCTOR EXTRA SOFT Olive Slides",
+          "image": "https://n1.sdlcdn.com/imgs/k/c/w/DOCTOR-EXTRA-SOFT-Olive-Slides-SDL560549818-1-10be3.jpg",
+          "price": "870",
+          "strikedOfprice": "1300",
+          "rating": "4.5",
+          "id": 11,
+          "size": "6"
+        },
+        {
+          "name": "Do Bhai Blue Slides",
+          "image": "https://n2.sdlcdn.com/imgs/j/p/3/Do-Bhai-Blue-Slides-SDL810654226-1-e2aac.jpg",
+          "price": "600",
+          "strikedOfprice": "1200",
+          "rating": "4.5",
+          "id": 12,
+          "size": "6"
+        }
+      ]
+    }
+  ]
+}

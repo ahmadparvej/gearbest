@@ -1,7 +1,6 @@
 import React,{useState} from 'react'
 import { Card } from './../components/Card';
 import { Grid, Stack, Text, Heading, Tag, Flex } from '@chakra-ui/react';
-import { Button } from '@chakra-ui/react';
 
 export const Products = ({list}) => {
   const [items, setItems] = useState(list)
@@ -9,7 +8,6 @@ export const Products = ({list}) => {
 
   const handlePriceTags = (prc)=>{
     const newItems = list.filter((item)=>item.price>=prc)
-    console.log(newItems);
     setItems(newItems)
   }
   return (
@@ -46,7 +44,7 @@ export const Products = ({list}) => {
           return a-b
         }
       }).map((product)=>{
-          return <Card product={product}/>
+          return <Card key={product.id} product={product}/>
       })}</Grid>
       </Flex>
   )

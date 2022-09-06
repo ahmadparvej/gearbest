@@ -20,17 +20,14 @@ export const cartReducer = (state=initState,{type,payload})=>{
             return {...state,cart:[],sum:0}
         }
         case DELETE_CART_SUCCESS:{
-            let newCart = state.cart.filter((item)=>{
-                if(item.id===payload){
-                    state.sum=state.sum-Number(item.price);
-                }else if(item.id!==payload){
-                    return item
-                }else{
-                    return item
-                }
-            })
-            state.cart=newCart;
-            return {...state}
+            let newCart = state.cart.filter((item)=>item.id!==payload)
+            const initialValue = 0;
+            const sumWithInitial = newCart.reduce(
+            (previousValue, currentValue) => previousValue + Number(currentValue.price),
+            initialValue
+            );
+            localStorage.setItem("cart",JSON.stringify(newCart))
+            return state={...state,cart:newCart,sum:sumWithInitial}
         }
         default:
             return state

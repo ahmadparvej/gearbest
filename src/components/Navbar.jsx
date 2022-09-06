@@ -35,11 +35,7 @@ export const Navbar = () => {
   const {cart} = useSelector((state)=>state.cartReducer)
   const navigate  = useNavigate()
   const handleCartOpen =()=>{
-    if(isAuth){
       navigate("/cart")
-    }else{
-      navigate("/signin")
-    }
   }
   return (
     <Stack>
@@ -56,7 +52,7 @@ export const Navbar = () => {
         </HStack>
         <HStack w="30%" justify="space-around">
           <Box cursor="pointer" ><Icon as={BsHeart}/>Favorite</Box>
-          <Box cursor="pointer" onClick={handleCartOpen}><Icon as={BsCart}/>Cart<Tag bg="#ffda00" borderRadius="50px">{cart.length}</Tag></Box>
+          <Link to="/cart"><Box><Icon as={BsCart}/>Cart<Tag bg="#ffda00" borderRadius="50px">{cart.length}</Tag></Box></Link>
           <Popover >
           <PopoverTrigger>
             {isAuth?<Box cursor="pointer"><Icon as={FaRegUser}/>Profile</Box>:<Box cursor="pointer"><Icon as={FaRegUser}/>SignUp</Box>}
