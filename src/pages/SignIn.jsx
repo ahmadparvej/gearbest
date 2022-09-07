@@ -38,7 +38,7 @@ export const SignIn=()=> {
       const handleSignUp = ()=>{
         dispatch(signIn({email,password,name:firstName+" "+lastName}))
         setTimeout(() => {
-          navigate("/")
+          navigate("/login")
         }, 1000);
       }
        
